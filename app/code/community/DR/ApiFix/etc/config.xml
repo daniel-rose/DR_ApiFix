@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <DR_ApiFix>
+            <version>1.0.0</version>
+        </DR_ApiFix>
+    </modules>
+    <global>
+        <helpers>
+            <dr_apifix>
+                <class>DR_ApiFix_Helper</class>
+            </dr_apifix>
+        </helpers>
+        <models>
+            <dr_apifix>
+                <class>DR_ApiFix_Model</class>
+            </dr_apifix>
+        </models>
+    </global>
+</config>

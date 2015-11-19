@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <api>
+        <adapters>
+            <soap>
+                <model>dr_apifix/server_adapter_soap</model>
+            </soap>
+            <soap_v2>
+                <model>dr_apifix/server_v2_adapter_soap</model>
+            </soap_v2>
+            <soap_wsi>
+                <model>dr_apifix/server_wsi_adapter_soap</model>
+            </soap_wsi>
+        </adapters>
+    </api>
+</config>

@@ -1,0 +1,15 @@
+{
+  "name": "dr/api-fix",
+  "type": "magento-module",
+  "description": "Magento API Hot Fix for Community Edition version 1.9.2.x",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Daniel Rose",
+      "email": "daniel-rose@gmx.de"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
